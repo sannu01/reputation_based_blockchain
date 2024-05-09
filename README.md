@@ -7,13 +7,13 @@ A reputation-based mechanism that allows each node to compute a
 
 paper
  https://ieeexplore.ieee.org/document/9625746
-
+<pre>
  Motivation
- • To increase the throughput of non-spam transactions.<br>
- • To avoid the increase of transaction fees of non-spam transactions.<br
- • To reduce the uses of computational resources for verifying spam <br>
+ • To increase the throughput of non-spam transactions.
+ • To avoid the increase of transaction fees of non-spam transactions.
+ • To reduce the uses of computational resources for verifying spam 
 transactions
-
+</pre>
  ![image](https://github.com/sannu01/reputation_based_blockchain/assets/53299324/22768351-c331-4356-a741-c090009072ae)
 
 
